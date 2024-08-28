@@ -4,7 +4,7 @@
 In this Github repository, Jupyter Notebooks containing the codes that were used to create this master thesis porject as well as the data set, that was created during this project can be found. 
 
 Content - Jupyter Notebooks
-1. Distance_Calculation_Classification_GitHub
+1. Distance_Calculation_Classification_GitHub n\
     Calculation of a the significant distance as a later on used classificaition criteria. 
 2. Feature_Calculation_GitHub
     Calculation of molecular descriptors using RDKit that are later introduced as the features. 
