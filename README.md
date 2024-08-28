@@ -8,7 +8,7 @@ Content - Jupyter Notebooks
     Calculation of a the significant distance as a later on used classificaition criteria. 
 2. Feature_Calculation_GitHub \
     Calculation of molecular descriptors using RDKit that are later introduced as the features. 
-3. Baseline_GitHubb \
+3. Baseline_GitHub \
     Baseline models using the DummyClassifier provided by scikit-learn.
 4. RF_All_GitHub \
     Building machine learning models using the RandomForestClassifier provided by scikit-learn. The calculation of metrics is performed to evaluate the performance of the built models. Permutation importance, a tool to evaluate the impact of a single feature on the performance of a model is also displayed in this notebook.
